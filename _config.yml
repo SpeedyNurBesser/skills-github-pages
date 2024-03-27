@@ -1,2 +1,20 @@
+title: My blog
+author:
+  name: EMail
+  email: ole370@duck.com
+
+
+description: > A blog is described by its description
+
+
 theme: minima
-author: ole370
+minima:
+  skin: solarized-light
+
+
+plugins:
+  - jekyll-feed
+
+
+header_pages:
+  - about.md
