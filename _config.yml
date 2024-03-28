@@ -9,7 +9,7 @@ description: A blog is described by its description.
 
 theme: minima
 minima:
-  skin: solarized-light
+  skin: dark
 
 
 plugins:
